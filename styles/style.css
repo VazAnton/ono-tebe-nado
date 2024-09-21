@@ -158,7 +158,7 @@
     text-transform: uppercase;
     text-decoration: underline;
     font-size: 20px;
-    position: absolute; 
+    position: absolute;
     width: 30%;
     font-weight: 600;
     color: #fff;
@@ -184,7 +184,7 @@
     left: 2%;
 }
 
-.card_2_title { 
+.card_2_title {
     left: 36%;
 }
 
