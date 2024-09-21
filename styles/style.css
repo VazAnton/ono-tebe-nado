@@ -41,15 +41,15 @@
     padding:0;
 }
 
-.cover {
-    background-image: url(../images/cover.jpg);
+.cover_img {
+    position: absolute;
     width: 69em;
     height: 40em;
 }
 
 .cover_overlay {
     position: absolute;
-    background-color: rgba(0 0 0 /.3);
+    background-color: rgba(0 0 0 /.5);
     width: 69em;
     height: 40em;
     bottom: 13em;
@@ -128,7 +128,7 @@
     display: grid;
     grid-template-rows: repeat(3, 1fr);
     position: relative;
-    bottom: 15em;
+    top: 5em;
 }
 
 .lots__heading {
@@ -223,7 +223,7 @@
 
 .about {
     position: relative;
-    bottom: 28em;
+    bottom: 20em;
 }
 
 .about__column {
