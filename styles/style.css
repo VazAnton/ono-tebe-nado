@@ -37,7 +37,7 @@
     padding:0;
 }
 
-.cover { 
+.cover {
     background-image: url(../images/cover.jpg);
     width: 100%;
     height: 35em;
@@ -146,12 +146,6 @@
     width: 100%;
 }
 
-.card {
-    width: 100%;
-    display: grid;
-    grid-template-rows: 1fr 4fr;
-}
-
 .card_overlay {
     position: absolute;
     inset: 0;
@@ -194,15 +188,15 @@
     left: 36%;
 }
 
-.card_2_text { 
+.card_2_text {
     left: 35%;
 }
 
-.card_3_title { 
+.card_3_title {
     right: 3%;
 }
 
-.card_3_text { 
+.card_3_text {
     right: 7%;
 }
 
