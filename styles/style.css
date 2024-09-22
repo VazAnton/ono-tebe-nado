@@ -3,6 +3,7 @@
     box-sizing: border-box;
     width: 1110px;
     height: 3028px;
+    margin: 0;
 }
 
 .container {
@@ -189,10 +190,9 @@
 
 .lots__heading {
     font-size: 50px;
-    margin: 0;
     position: relative;
-    top: 505px;
-    left: 40px;
+    top: 506px;
+    left: 42px;
 }
 
 .lots__card-list {
@@ -301,8 +301,8 @@
 .lots__look-more-link {
     text-decoration: underline;
     position: relative;
-    top: 45px;
-    left: 40px;
+    top: 44px;
+    left: 42px;
     font-size: 20px;
 }
 
@@ -347,8 +347,8 @@
     font-size: 40px;
     word-spacing: 2px;
     position: relative;
-    left: 36px;
-    top: 12px;
+    left: 35px;
+    top: 16px;
 }
 
 .about__text {
@@ -405,6 +405,8 @@
 .footer__menu-list-item {
     display: inline-block;
     font-size: 18px;
+    position: relative;
+    top: 5px;
 }
 
 .footer__menu-link {
@@ -417,7 +419,8 @@
     width: 240px;
     height: 40px;
     position: relative;
-    left: 74px;
+    top: 2px;
+    left: 75px;
 }
 
 .footer__social-icon {
@@ -426,10 +429,10 @@
 
 .vk_icon {
     position: relative;
-    left: 15px;
+    left: 16px;
 }
 
 .ps_icon {
     position: relative;
-    left: 30px;
+    left: 32px;
 }
