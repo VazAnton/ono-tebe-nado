@@ -59,6 +59,8 @@
     min-height: 757px;
     margin-top: 90px;
     background-image: url(../images/cover.jpg);
+    background-size: cover;
+    background-position: center;
     position: relative;
 }
 
@@ -179,6 +181,8 @@
     min-height: 566px;
     gap: 25px;
     position: relative;
+    background-size: cover;
+    background-position: center;
 }
 
 .card_type_film {
